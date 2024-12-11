@@ -17,8 +17,13 @@ Before running the application, ensure you have Python and PyQt5 installed on yo
 
 ```Bash
 pip install PyQt5
+```
 
 
 ## Installation
 
 1. Clone this repository or download the script:
+   
+```bash
+git clone https://your-repository-url/ui-converter.git
+   
